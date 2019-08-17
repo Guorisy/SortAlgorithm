@@ -11,7 +11,6 @@ public class BubbleSort {
 	}
 
 	/**
-	 * ц╟ещеепР
 	 *
 	 * @param array
 	 * @return
